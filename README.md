@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently student of M.C.A.
 - 🌱 I’m currently learning Javascript, Java.
 - 💬 Ask me about C, Java, HTML, CSS, JavaScript.
