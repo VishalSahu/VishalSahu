@@ -4,8 +4,8 @@
 
 ### Hi there <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="20px">
 - 🔭 I’m currently student of M.C.A.
-- 🌱 I’m currently learning Javascript, Java.
-- 💬 Ask me about C, Java, HTML, CSS, JavaScript.
+- 🌱 I’m currently learning Javascript, Java, UI design.
+- 💬 Ask me about C, Java, HTML, CSS, JavaScript, Git.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/sahu-vishal/
 
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
