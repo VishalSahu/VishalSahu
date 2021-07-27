@@ -14,3 +14,5 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=VishalSahu&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VishalSahu&show_icons=true&locale=en&theme=dark" alt="VishalSahu" /></p>
