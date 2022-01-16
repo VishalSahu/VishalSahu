@@ -4,6 +4,6 @@
 
 ### Hi there <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="20px">
 - 🔭 I’m currently student of M.C.A.
-- 🌱 I’m currently learning Flutter, Firebase, Javascript, Java, UI design.
+- 🌱 I’m currently learning Flutter, Firebase, Javascript, Java, UI design, PHP, MySQL.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/sahu-vishal/
 
