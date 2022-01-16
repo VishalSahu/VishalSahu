@@ -7,10 +7,3 @@
 - 🌱 I’m currently learning Flutter, Firebase, Javascript, Java, UI design.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/sahu-vishal/
 
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=VishalSahu&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishalSahu&show_icons=true&locale=en&layout=compact" alt="VishalSahu" /></p>
