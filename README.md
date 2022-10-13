@@ -1,6 +1,6 @@
 # 💫About Me :
-- 🔭 I’m currently a student of M.C.A and intern in Digitas India.
-- 🌱 I’m currently learning Flutter, Firebase, Javascript, Java, UI design, PHP, MySQL.
+- 🔭 I’m currently working as an android developer at Altametrics.
+- 🌱 I’m currently learning Android, Flutter, Firebase, UI design.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/sahu-vishal/
 
 ## 🌐Socials
